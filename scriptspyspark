@@ -1,4 +1,4 @@
-#para trtansformar o arquivo em ut8
+#para transformar o arquivo em ut8
 #iconv -f ISO-8859-1 -t UTF-8 exemploarquivo.csv > exemploarquivo.utf8.csv
 #head exemploarquivo.utf8.csv 
 
